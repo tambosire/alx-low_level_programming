@@ -1,4 +1,4 @@
-#include <studio>
+#include <stdio>
 /**
  * main - main block
  * Description: print the alphabet in lower case
