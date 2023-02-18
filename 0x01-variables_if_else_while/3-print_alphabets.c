@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - main block
  * Description: print the alphabet in lower case
@@ -17,7 +17,7 @@ int main(void)
 
 	c = 'A';
 
-	while (c <='Z')
+	while (c <= 'Z')
 	{
 		putchar(c);
 		c++;
